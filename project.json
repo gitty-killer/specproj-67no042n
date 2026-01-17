@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-67no042n"",
-  ""goal"": ""sync worker for audit trails"",
-  ""language"": ""rust"",
-  ""template"": ""rust-lib""
+    "name":  "specproj-67no042n",
+    "goal":  "sync worker for audit trails",
+    "language":  "rust",
+    "template":  "rust-lib"
 }
